@@ -1,0 +1,192 @@
+{
+  "total": 20,
+  "correct": 20,
+  "accuracy": 1.0,
+  "results": [
+    {
+      "id": 1,
+      "instruction": "schedule a study session for sql joins",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 2,
+      "instruction": "plan a 4 week learning roadmap for ml",
+      "expected_tool": "draft_learning_plan",
+      "proposed_tools": [
+        "draft_learning_plan",
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 3,
+      "instruction": "create a practice quiz for python",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    },
+    {
+      "id": 4,
+      "instruction": "schedule a sprint study session for react hooks",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 5,
+      "instruction": "draft a study plan for system design",
+      "expected_tool": "draft_learning_plan",
+      "proposed_tools": [
+        "draft_learning_plan",
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 6,
+      "instruction": "generate quiz for docker internals",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    },
+    {
+      "id": 7,
+      "instruction": "schedule study session for algorithms",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 8,
+      "instruction": "make a practice exam for databases",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    },
+    {
+      "id": 9,
+      "instruction": "plan my interview prep roadmap",
+      "expected_tool": "draft_learning_plan",
+      "proposed_tools": [
+        "draft_learning_plan",
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 10,
+      "instruction": "schedule a focused session for networking",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 11,
+      "instruction": "generate quiz for operating systems",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    },
+    {
+      "id": 12,
+      "instruction": "plan deep learning study roadmap",
+      "expected_tool": "draft_learning_plan",
+      "proposed_tools": [
+        "draft_learning_plan",
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 13,
+      "instruction": "schedule study session for git",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 14,
+      "instruction": "practice quiz for python oop",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    },
+    {
+      "id": 15,
+      "instruction": "draft learning path for cloud computing",
+      "expected_tool": "draft_learning_plan",
+      "proposed_tools": [
+        "draft_learning_plan"
+      ],
+      "correct": true
+    },
+    {
+      "id": 16,
+      "instruction": "schedule session for math fundamentals",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 17,
+      "instruction": "make exam for sql",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    },
+    {
+      "id": 18,
+      "instruction": "plan data science learning roadmap",
+      "expected_tool": "draft_learning_plan",
+      "proposed_tools": [
+        "draft_learning_plan",
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 19,
+      "instruction": "schedule study sprint for security",
+      "expected_tool": "schedule_study_session",
+      "proposed_tools": [
+        "schedule_study_session"
+      ],
+      "correct": true
+    },
+    {
+      "id": 20,
+      "instruction": "practice quiz for linux",
+      "expected_tool": "generate_quiz",
+      "proposed_tools": [
+        "generate_quiz"
+      ],
+      "correct": true
+    }
+  ]
+}
